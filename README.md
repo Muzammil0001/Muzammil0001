@@ -19,7 +19,7 @@ I specialize in building scalable web applications, exploring emerging technolog
 
 ## 🌐 Socials
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" /></a>
   <a href="https://medium.com/"><img src="https://img.shields.io/badge/-Medium-black?logo=medium" /></a>
   <a href="https://youtube.com/"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube" /></a>
